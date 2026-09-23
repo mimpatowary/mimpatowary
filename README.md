@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mimpatowary/mimpatowary/main/github-banner.png" width="100%">
-</p>
+
 # Hi, I'm Mahomuda Patowary Mim 👋
 
 ### 💻 Computer Science Student | Aspiring Software Developer
