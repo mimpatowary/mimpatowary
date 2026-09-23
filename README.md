@@ -82,8 +82,8 @@ A web-based platform designed to help users **sell, donate, browse, and manage r
 
 ## 🤝 Connect With Me
 
-* 💼 **LinkedIn:** Add your LinkedIn profile link here
-* 📧 **Email:** Add your professional email here
+* 💼 **LinkedIn:** [linkedin.com/mimpatowary](https://www.linkedin.com/in/mim-patowary-1b5165318/)
+* 📧 **Email:**  [mimpatowary](mimpatowary123@gmail.com )
 * 💻 **GitHub:** [github.com/mimpatowary](https://github.com/mimpatowary)
 
 ---
