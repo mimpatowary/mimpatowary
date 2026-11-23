@@ -1,28 +1,27 @@
 
  Hi, I'm Mahomuda Patowary Mim 👋
 
-### 💻 Computer Science Student | Aspiring Software Developer
+ 💻 Computer Science Student | Aspiring Software Developer
 
 I'm a Computer Science student at **American International University-Bangladesh (AIUB)** with an interest in software development, web technologies, and building practical applications.
 
 I enjoy learning new technologies, developing academic projects, and improving my programming skills through hands-on practice.
 
 ---
-
-## 🚀 About Me
+  About Me
 
 * 🎓 Computer Science student at **AIUB**
 * 💻 Interested in **Web Development & Software Development**
-* 🌱 Currently improving my programming and development skills
-* 🔨 Working on academic and personal projects
-* 📚 Always interested in learning new technologies
-* 🎯 Looking forward to starting my professional career in the technology industry
+*  Currently improving my programming and development skills
+*  Working on academic and personal projects
+*  Always interested in learning new technologies
+*  Looking forward to starting my professional career in the technology industry
 
 ---
 
-## 🛠️ Skills & Technologies
+ 🛠️ Skills & Technologies
 
-### Programming & Web
+ Programming & Web
 
 * HTML
 * CSS
@@ -31,7 +30,7 @@ I enjoy learning new technologies, developing academic projects, and improving m
 * C++
 * C#
 
-### Database
+# Database
 
 * MySQL
 * SQL
@@ -47,7 +46,7 @@ I enjoy learning new technologies, developing academic projects, and improving m
 
 ---
 
-## 📌 Featured Project
+##  Featured Project
 
 ### ♻️ EcoCycle — Recycling & Item Exchange Platform
 
@@ -75,20 +74,20 @@ A web-based platform designed to help users **sell, donate, browse, and manage r
 
 ---
 
-## 🔥 Most Used Languages
+## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mimpatowary\&layout=compact\&hide_border=true)
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/mimpatowary](https://www.linkedin.com/in/mim-patowary-1b5165318/)
+*  **LinkedIn:** [linkedin.com/mimpatowary](https://www.linkedin.com/in/mim-patowary-1b5165318/)
 * 📧 **Email:**  [mimpatowary](mimpatowary123@gmail.com )
 * 💻 **GitHub:** [github.com/mimpatowary](https://github.com/mimpatowary)
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 I'm always open to learning, collaborating, and working on interesting technology projects.
