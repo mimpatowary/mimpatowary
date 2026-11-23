@@ -1,7 +1,7 @@
 
  Hi, I'm Mahomuda Patowary Mim 👋
 
- 💻 Computer Science Student | Aspiring Software Developer
+ Computer Science Student | Aspiring Software Developer
 
 I'm a Computer Science student at **American International University-Bangladesh (AIUB)** with an interest in software development, web technologies, and building practical applications.
 
@@ -10,8 +10,8 @@ I enjoy learning new technologies, developing academic projects, and improving m
 ---
   About Me
 
-* 🎓 Computer Science student at **AIUB**
-* 💻 Interested in **Web Development & Software Development**
+*  Computer Science student at **AIUB**
+*  Interested in **Web Development & Software Development**
 *  Currently improving my programming and development skills
 *  Working on academic and personal projects
 *  Always interested in learning new technologies
@@ -19,7 +19,7 @@ I enjoy learning new technologies, developing academic projects, and improving m
 
 ---
 
- 🛠️ Skills & Technologies
+# Skills & Technologies
 
  Programming & Web
 
@@ -35,7 +35,7 @@ I enjoy learning new technologies, developing academic projects, and improving m
 * MySQL
 * SQL
 
-### Tools
+## Tools
 
 * Git & GitHub
 * Microsoft Word
@@ -44,7 +44,7 @@ I enjoy learning new technologies, developing academic projects, and improving m
 * AutoCAD
 * XAMPP
 
----
+
 
 ##  Featured Project
 
@@ -66,13 +66,13 @@ A web-based platform designed to help users **sell, donate, browse, and manage r
 * Delivery staff management
 * Session and cookie-based authentication
 
----
 
-## 📊 GitHub Stats
+
+##  GitHub Stats
 
 ![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimpatowary\&show_icons=true\&hide_border=true)
 
----
+
 
 ## Most Used Languages
 
